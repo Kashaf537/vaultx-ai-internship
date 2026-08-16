@@ -4,8 +4,8 @@
 
 LLMs can't read text directly. Instead, they convert words into small pieces known as tokens to better process the text.
 For example :
-"I love Python!"
-"I" "love" "Python" "!"
+"I love Python!" (Simple sentence)
+"I" "love" "Python" "!" (Tokenize form)
 
 ## **2. Context Window**
 
